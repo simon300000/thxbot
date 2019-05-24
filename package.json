@@ -1,0 +1,26 @@
+{
+  "name": "thxbot",
+  "version": "1.0.0",
+  "description": "Thank you!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simon300000/thxbot.git"
+  },
+  "bin": {
+    "thxbot": "index.js"
+  },
+  "keywords": [
+    "thank",
+    "you"
+  ],
+  "author": "simon3000 <simon3000@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simon300000/thxbot/issues"
+  },
+  "homepage": "https://github.com/simon300000/thxbot#readme"
+}
