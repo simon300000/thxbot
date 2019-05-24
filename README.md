@@ -1,4 +1,4 @@
-# thxbot
+# thxbot [![npm](https://img.shields.io/npm/v/thxbot.svg)](https://www.npmjs.com/package/thxbot)
 
 Thank you!
 
@@ -41,4 +41,3 @@ Thank you!
 MIT
 
 # Thank you!
-
